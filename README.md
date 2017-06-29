@@ -5,10 +5,14 @@
 
   官网地址：https://nodejs.org/dist/
 ### 2.服务器下载压缩包
+
   linux命令：
     wget 【node版本压缩包】| 
+    
     实例：wget https://nodejs.org/dist/v4.6.2/node-v4.6.2-linux-x64.tar.gz
+    
   解压文件：tar -zxvf node-v4.6.2-linux-x64
+  
   node文件下找到bin文件夹- node ，npm 两个文件
 ### 3.node软链接全局安装
 
